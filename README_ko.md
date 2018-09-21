@@ -1,6 +1,8 @@
 # FixBox
 FixBox는 Postfix와 Dovecot로 메일 서버를 구축한 환경에서 도메인 및 계정을 관리해주는 시스템이다. Apache SpamAssassin으로 스팸메일 필터링을 하고 있다면, Required Score 설정 및 Whitelist와 Blacklist 관리도 할 수 있게 해준다. Modern한 UI로 무료로 구축 가능한 Webmail client server인 RainLoop의 자동 설치 및 연동도 제공한다.
 
+<p align="center"><img src="images/architecture_ko.png?raw=true" width="409" /></p>
+
 FixBox는 반응형 웹으로 구현되어 있어 PC뿐만 아니라, Mobile 환경에서도 쉽게 접근해서 사용이 가능하다.
 
 ### 사용 가이드
