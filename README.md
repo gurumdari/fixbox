@@ -1,6 +1,8 @@
 # FixBox
 FixBox is a system that manages domains and accounts in Postfix and Dovecot environments. If you are filtering spam with Apache SpamAssassin, you can also set up a required score and manage whitelists and blacklists. FixBox also provides automatic installation and integration of RainLoop, a Webmail client server that can be built freely with a modern UI.
 
+<p align="center"><img src="images/architecture_en.png?raw=true" width="409" /></p>
+
 FixBox is implemented as a responsive web, so it can be used easily in PC as well as mobile environment.
 
 ### Guide
